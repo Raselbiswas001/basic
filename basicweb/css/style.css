@@ -1,0 +1,17 @@
+div{
+	background-color: #d7deff;
+	text-align: center;
+}
+h1{
+	font-size: 100px;
+}
+h1 strong{
+	color: blue;
+}
+p{  
+	font-size: 16px;
+}
+img{
+	width: 400px;
+	padding: 150px 0;
+}
